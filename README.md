@@ -27,3 +27,5 @@ This study analyses a real dataset from a paid search campaign run by a US shopp
 
 # Conclusions
 
+
+<img src="https://github.com/AgosBal/Paid-Search-Campaign/blob/eb89e2f875c3b936b3bef8bd0dddb553c0708fbe/img/agostina-balverde-high-resolution-logo-transparent.png" width="350" height="110" alt="Agostina Balverde logo">
